@@ -6,8 +6,7 @@ class TableBody extends Component {
         bodyValue: [],
         isAction: false,
         deleteItem: undefined,
-        editItem: undefined,
-        editBtnOtherProps: {}
+        editItem: undefined
     }
 
     render() {
@@ -17,7 +16,6 @@ class TableBody extends Component {
                     this.props.bodyValue.map((value, index) => {
                         return (
                         <tr key={index}>
-                            <th scope="row">{value.no}</th>
                             <td>{value.fName}</td>
                             {
                                 (this.props.isAction) ? (

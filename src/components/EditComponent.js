@@ -43,18 +43,7 @@ class EditComponent extends Component {
             >
                 <form>
                     <div className="form-group">
-                        <label htmlFor="exampleInputEmail1">No</label>
-                        <input
-                            type="number"
-                            className="form-control"
-                            name={"no"}
-                            value={this.state.formData.no}
-                            onChange={(event) => this.onChangeFn(event)}
-                        />
-
-                    </div>
-                    <div className="form-group">
-                        <label htmlFor="exampleInputPassword1">First Name</label>
+                        <label htmlFor="exampleInputPassword1">Edit Name</label>
                         <input
                             type="text"
                             className="form-control"

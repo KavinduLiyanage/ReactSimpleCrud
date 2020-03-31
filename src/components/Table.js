@@ -1,24 +1,22 @@
 import React, {Component} from 'react';
-import TableHead from "./TableHead";
 import TableBody from "./TableBody";
 
 class Table extends Component {
 
     static defaultProps = {
-        headerValue1: [],
         bodyValue: [],
         isAction: false,
         deleteItem: undefined,
-        editItem: undefined,
-        editBtnOtherProps: {}
+        editItem: undefined
     }
 
     render() {
 
         return (
             <div>
+                <h4 align="center">Name List</h4>
                 <table className="table table-striped">
-                    <TableHead headerValue1={this.props.headers} isAction={this.props.isAction} />
+
                     <TableBody bodyValue={this.props.body} isAction={this.props.isAction}
                                deleteItem={this.props.deleteItem}
                                editItem={this.props.editItem}
