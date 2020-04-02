@@ -40,6 +40,7 @@ class App extends Component{
                 ...[this.state.currentData]
             ]
         })
+
     };
 
     deleteItem = (id) => {
