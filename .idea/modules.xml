@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ReactSimpleCrud.iml" filepath="$PROJECT_DIR$/.idea/ReactSimpleCrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReactSimpleCrud/.idea/ReactSimpleCrud.iml" filepath="$PROJECT_DIR$/../ReactSimpleCrud/.idea/ReactSimpleCrud.iml" />
     </modules>
   </component>
 </project>

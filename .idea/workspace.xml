@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40b5929f-b7d1-43f8-a089-be1aaac920b9" name="Default Changelist" comment="add css">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ReactSimpleCrud.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    <list default="true" id="40b5929f-b7d1-43f8-a089-be1aaac920b9" name="Default Changelist" comment="Title change">
+      <change beforePath="$PROJECT_DIR$/../ReactSimpleCrud/.idea/ReactSimpleCrud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReactSimpleCrud/.idea/ReactSimpleCrud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReactSimpleCrud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReactSimpleCrud/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ReactSimpleCrud" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,7 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -96,7 +80,9 @@
       <workItem from="1588603304377" duration="966000" />
       <workItem from="1585666667391" duration="164000" />
       <workItem from="1588609306184" duration="10000" />
-      <workItem from="1591296530558" duration="895000" />
+      <workItem from="1591296530558" duration="1647000" />
+      <workItem from="1589437424851" duration="159000" />
+      <workItem from="1589437683638" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="crud complete">
       <created>1585468740583</created>
@@ -112,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585666506953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Title change">
+      <created>1585789743472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585789743472</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,11 +121,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="crud complete" />
     <MESSAGE value="add css" />
-    <option name="LAST_COMMIT_MESSAGE" value="add css" />
+    <MESSAGE value="Title change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Title change" />
   </component>
   <component name="WindowStateProjectService">
     <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1585666814777">
@@ -143,22 +141,36 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585468089119" />
-    <state x="2383" y="118" key="FileChooserDialogImpl" timestamp="1585502169987">
-      <screen x="1920" y="0" width="1366" height="728" />
+    <state x="521" y="134" key="FileChooserDialogImpl" timestamp="1589437769845">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2383" y="118" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1585502169987" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585666517030">
+    <state x="521" y="134" key="FileChooserDialogImpl/0.0.1536.824/1920.130.1366.728@0.0.1536.824" timestamp="1589437769845" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1589437772690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.130.1366.728@0.0.1536.824" timestamp="1589437772690" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591298170741">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585666517030" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.130.1366.728@0.0.1536.824" timestamp="1591298170741" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585468089119">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1585468089119" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591296601549">
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589437444333">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.130.1366.728@0.0.1536.824" timestamp="1591296601549" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.130.1366.728@0.0.1536.824" timestamp="1589437444333" />
+    <state x="457" y="200" key="git4idea.merge.GitPullDialog" timestamp="1589437485093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="200" key="git4idea.merge.GitPullDialog/0.0.1536.824/1920.130.1366.728@0.0.1536.824" timestamp="1589437485093" />
+    <state x="530" y="313" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589437467532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="313" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.130.1366.728@0.0.1536.824" timestamp="1589437467532" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1585486296454">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
