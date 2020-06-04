@@ -71,7 +71,7 @@ class App extends Component{
             formData: temp
         })
     };
-/*
+
     competeItem = (id) => {
         let temp = this.state.formData;
         let record = _findIndex(temp, {no:id});
@@ -81,7 +81,7 @@ class App extends Component{
             formData: temp
         })
     };
-*/
+
   render() {
 
     return (
